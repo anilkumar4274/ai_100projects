@@ -1,4 +1,4 @@
-This project is made using Python Opencv & Tensorflow.
+This project is made using Python, Opencv, sk-learn & Tensorflow.
 This project is uploaded without dataset.
 To get access to this project just download the project and download the dataset for Face Mask Detection from Kaggle.
 Keep in mind to keep minimum of 2000 images each for with_mask & without_mask.
@@ -18,4 +18,4 @@ Requirements( these should be installed in your PC):
 - sklearn
 
 
-Additional Features will be upgraded soon...
+Additional Features will be added soon...
